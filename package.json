@@ -2,11 +2,11 @@
     "name": "nodemailer-noiconv",
     "description": "Easy to use module to send e-mails, supports unicode and SSL/TLS, with dependency only on mimelib-noiconv",
     "version": "0.2.4",
-    "author" : "Andris Reinman",
+    "author" : "Keshavaprasad B S",
     "maintainers":[
         {
-            "name":"andris",
-            "email":"andris@node.ee"
+            "name":"Keshavaprasad B S",
+            "email":"kbsbng@gmail.com"
         }
     ],
     "homepage": "http://www.nodemailer.org",
